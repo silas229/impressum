@@ -8,7 +8,7 @@ Silas Meyer
 Bärenkopfstraße, 40
 38704 Liebenburg
 
-Kontakt:
+## Kontakt:
 Telefon: +49 1578 0395653  
 E-Mail: <contact@silas229.de>
 
