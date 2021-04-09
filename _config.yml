@@ -7,10 +7,12 @@ author: Silas Meyer
 navbar-links: 
   Website: "https://silas229.me"
 
-avatar: "https://silas229.me/logo.svg"
+avatar: "avatar.png"
 
 social-network-links:
   email: "contact@silas229.me"
   github: silas229
   twitter: silas_229
   mastodon: social.tchncs.de/@silas_229
+
+exclude:
