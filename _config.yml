@@ -15,4 +15,11 @@ social-network-links:
   twitter: silas_229
   mastodon: social.tchncs.de/@silas_229
 
+defaults:
+  - 
+    scope:
+      path: "README.md"
+    values:
+      permalink: "index.html"
+
 exclude:
