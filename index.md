@@ -4,8 +4,8 @@ title: Impressum
 subtitle: Angaben gemäß § 5 TMG
 ---
 
-Silas Meyer
-Bärenkopfstraße, 40
+Silas Meyer  
+Bärenkopfstraße 40  
 38704 Liebenburg
 
 ## Kontakt:
