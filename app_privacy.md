@@ -22,3 +22,4 @@ E-Mail: contact@silas229.de ([PGP-Schlüssel](https://pgp.mit.edu/pks/lookup?sea
 ## Arten der Verarbeiteten Daten:
 
 In der App werden keine Daten verarbeitet. Die App fordert keine Berechtigungen an und speichert keine Daten ab. Sie funktioniert vollständig offline und kommuniziert nicht mit dem Internet.
+
